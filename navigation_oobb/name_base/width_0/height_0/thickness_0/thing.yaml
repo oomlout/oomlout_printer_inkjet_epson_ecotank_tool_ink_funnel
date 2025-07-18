@@ -1,0 +1,137 @@
+classification: project
+color: oomlout_printer_inkjet_epson_ecotank_too
+description_extra: ''
+description_main: base_0_width_0_height_0_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: project_github_oomlout_oomlout_printer_inkjet_epson_ecotank_too_base_0_width_0_height_0_mm_depth
+id_oobb: oobb_part_oomlout_printer_inkjet_epson_ecotank_too_base_0_width_0_height_0_mm_depth
+kwargs:
+  filter: ''
+  height: 0
+  modes:
+  - 3dpr
+  navigation: false
+  oomp_classification: project
+  oomp_color: oomlout_printer_inkjet_epson_ecotank_too
+  oomp_description_extra: ''
+  oomp_description_main: base_0_width_0_height_0_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: project
+  oomp_part_number: ''
+  oomp_run: false
+  oomp_size: oomlout
+  oomp_type: github
+  overwrite: true
+  thickness: 0
+  type: oomlout_printer_inkjet_epson_ecotank_too_base
+  width: 0
+manufacturer: ''
+name: base
+part_number: ''
+project_name: C:\gh\oomlout_printer_inkjet_epson_ecotank_tool_ink_funnel
+size: oomlout
+thing:
+  classification: oobb
+  color: ''
+  components:
+  - - depth: 0
+      height: 0
+      pos:
+      - 0
+      - 0
+      - 0
+      shape: rounded_rectangle
+      size:
+      - -1
+      - -1
+      - 0
+      type: positive
+      width: 0
+  - []
+  components_objects:
+  - depth: 0
+    filter: ''
+    height: 0
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_printer_inkjet_epson_ecotank_too
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shape: oobb_plate
+    thickness: 0
+    type: positive
+    width: 0
+  - both_holes: true
+    depth: 0
+    filter: ''
+    height: 0
+    holes: perimeter
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_printer_inkjet_epson_ecotank_too
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: none
+    shape: oobb_holes
+    thickness: 0
+    type: p
+    width: 0
+  components_string:
+  - oobb_plate_shape_positive_type_0_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_0_width_0_height_0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_printer_inkjet_epson_ecotank_too_oomp_color
+  - oobb_holes_shape_p_type_0_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_0_width_0_height_0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_printer_inkjet_epson_ecotank_too_oomp_color_true_both_holes_perimeter_holes
+  description: oomlout printer inkjet epson ecotank too base 0x0x0
+  description_extra: ''
+  description_main: 0_width_0_height_0_mm_depth
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_printer_inkjet_epson_ecotank_too_base_0_width_0_height_0_mm_depth
+  height: 0
+  height_mm: -1
+  id: oobb_part_oomlout_printer_inkjet_epson_ecotank_too_base_0_width_0_height_0_mm_depth
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_printer_inkjet_epson_ecotank_too_base/0_width_0_height_0_mm_depth/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_printer_inkjet_epson_ecotank_too_base_00_00_00
+  manufacturer: ''
+  name: Oobb Part Oomlout Printer Inkjet Epson Ecotank Too Base 0 Width 0 Height 0
+    mm Depth
+  name_short: Oomlout Printer Inkjet Epson Ecotank
+  part_number: ''
+  short_name: ''
+  size: oomlout_printer_inkjet_epson_ecotank_too_base
+  thickness: 0
+  thickness_mm: 0
+  type: part
+  width: 0
+  width_mm: -1
+type: github
