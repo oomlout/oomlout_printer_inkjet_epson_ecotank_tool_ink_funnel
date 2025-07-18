@@ -1,0 +1,246 @@
+classification: project
+color: oomlout_printer_inkjet_epson_ecotank_too
+description_extra: ''
+description_main: version_1_0_width_0_height_0_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: project_github_oomlout_oomlout_printer_inkjet_epson_ecotank_too_version_1_0_width_0_height_0_mm_depth
+id_oobb: oobb_part_oomlout_printer_inkjet_epson_ecotank_too_version_1_0_width_0_height_0_mm_depth
+kwargs:
+  filter: ''
+  height: 0
+  modes:
+  - 3dpr
+  navigation: true
+  oomp_classification: project
+  oomp_color: oomlout_printer_inkjet_epson_ecotank_too
+  oomp_description_extra: ''
+  oomp_description_main: version_1_0_width_0_height_0_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: project
+  oomp_part_number: ''
+  oomp_run: true
+  oomp_size: oomlout
+  oomp_type: github
+  overwrite: true
+  thickness: 0
+  typ: all
+  type: oomlout_printer_inkjet_epson_ecotank_too_version_1
+  width: 0
+manufacturer: ''
+name: version_1
+part_number: ''
+project_name: C:\gh\oomlout_printer_inkjet_epson_ecotank_tool_ink_funnel
+size: oomlout
+thing:
+  classification: oobb
+  color: ''
+  components:
+  - - objects:
+      - depth: 6
+        h: 6
+        height: 0
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 1.75
+        shape: cylinder
+        type: positive
+        wall_thickness: 0.5
+        width: 0
+      - depth: 6
+        h: 6
+        height: 0
+        pos:
+        - 0
+        - 0
+        - 0
+        r: 1.25
+        shape: cylinder
+        type: negative
+        wall_thickness: 0.5
+        width: 0
+      pos:
+      - 0
+      - 0
+      - 0
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: positive
+  - - - height: 0
+        m: '#'
+        pos:
+        - -0.75
+        - -5.0
+        - 0
+        shape: cube
+        size:
+        - 1.5
+        - 10
+        - 4
+        type: negative
+        width: 0
+  - - objects:
+      - depth: 15
+        h: 15
+        height: 0
+        pos:
+        - 0
+        - 0
+        - 0
+        r1: 1.75
+        r2: 15.0
+        shape: cylinder
+        type: positive
+        wall_thickness: 1
+        width: 0
+      - depth: 15
+        h: 15
+        height: 0
+        pos:
+        - 0
+        - 0
+        - 0
+        r1: 0.75
+        r2: 14.0
+        shape: cylinder
+        type: negative
+        wall_thickness: 1
+        width: 0
+      pos:
+      - 0
+      - 0
+      - 6
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: positive
+  components_objects:
+  - depth: 6
+    filter: ''
+    height: 0
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: project
+    oomp_color: oomlout_printer_inkjet_epson_ecotank_too
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    radius: 1.75
+    save_type: all
+    shape: oobb_cylinder_hollow
+    thickness: 0
+    typ: all
+    type: positive
+    wall_thickness: 0.5
+    width: 0
+  - filter: ''
+    height: 0
+    m: '#'
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: project
+    oomp_color: oomlout_printer_inkjet_epson_ecotank_too
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cube
+    size:
+    - 1.5
+    - 10
+    - 4
+    thickness: 0
+    typ: all
+    type: negative
+    width: 0
+  - depth: 15
+    filter: ''
+    height: 0
+    modes:
+    - 3dpr
+    navigation: true
+    oomp_classification: project
+    oomp_color: oomlout_printer_inkjet_epson_ecotank_too
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 6
+    r1: 1.75
+    r2: 15.0
+    save_type: all
+    shape: oobb_cylinder_hollow
+    thickness: 0
+    typ: all
+    type: positive
+    wall_thickness: 1
+    width: 0
+  components_string:
+  - oobb_cylinder_hollow_shape_positive_type_6_depth_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_0_width_0_height_0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_printer_inkjet_epson_ecotank_too_oomp_color_1.75_radius_0.5_wall_thickness
+  - oobb_cube_shape_negative_type_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_0_width_0_height_0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_printer_inkjet_epson_ecotank_too_oomp_color_1.5_10_4_size
+  - oobb_cylinder_hollow_shape_positive_type_15_depth_0_0_6_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_0_width_0_height_0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_printer_inkjet_epson_ecotank_too_oomp_color_1.75_r1_15.0_r2_1_wall_thickness
+  description: oomlout printer inkjet epson ecotank too version 1 0x0x0
+  description_extra: ''
+  description_main: 0_width_0_height_0_mm_depth
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_printer_inkjet_epson_ecotank_too_version_1_0_width_0_height_0_mm_depth
+  height: 0
+  height_mm: -1
+  id: oobb_part_oomlout_printer_inkjet_epson_ecotank_too_version_1_0_width_0_height_0_mm_depth
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_printer_inkjet_epson_ecotank_too_version_1/0_width_0_height_0_mm_depth/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_printer_inkjet_epson_ecotank_too_version_1_00_00_00
+  manufacturer: ''
+  name: Oobb Part Oomlout Printer Inkjet Epson Ecotank Too Version 1 0 Width 0 Height
+    0 mm Depth
+  name_short: Oomlout Printer Inkjet Epson Ecotank
+  part_number: ''
+  short_name: ''
+  size: oomlout_printer_inkjet_epson_ecotank_too_version_1
+  thickness: 0
+  thickness_mm: 0
+  type: part
+  width: 0
+  width_mm: -1
+type: github
